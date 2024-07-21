@@ -38,11 +38,13 @@ I am a student, I started to fall in love with technology, This love has helped 
 </div> 
 -->
 
+<!--
 ## Activities 🗺️
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=3liinasser&show_icons=true&bg_color=30,08203e,557c93&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3liinasser&layout=compact&langs_count=7&bg_color=30,557c93,08203e&title_color=fff&text_color=fff&hide_border=true&border_radius=5"/>
 </div>
+-->
 
 <br><br>
 
